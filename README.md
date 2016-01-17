@@ -105,62 +105,112 @@ En français
 En anglais :
 
 * Aranya, Permaculture Design : A Step-by-Step Guide, Permanent Publications, 2012.
-Une introduction au design.
 
-* Ben Falk, The Resilient Farm and Homestead : An Innovative Permaculture and Whole Systems Design Approach, Chelsea Green Publishing, 2013. Une approche novatrice de l’agriculture permaculturelle développée dans une ferme remarquable.
+> Une introduction au design.
 
-* Andrew Goldring, Permaculture Teachers’ Guide, édité par Permaculture Association, WWF-UK et Permanent Publications, 2000. Un document utile à ceux qui souhaitent enseigner la permaculture : il décrit le cursus de base enseigné dans les cours certifiés de permaculture.
+* Ben Falk, The Resilient Farm and Homestead : An Innovative Permaculture and Whole Systems Design Approach, Chelsea Green Publishing, 2013. 
 
-* Toby Hemenway, Gaïa’s Garden : A Guide to Home-Scale Permaculture, Chelsea Green Publishing, 2000. Excellent livre sur le jardin permaculturel, facile à lire. À quand la traduction française ?
+> Une approche novatrice de l’agriculture permaculturelle développée dans une ferme remarquable.
 
-* David Holmgren, Permaculture : Principles & Pathways Beyond Sustainability, Holmgren Design Services, 2002. Version anglaise de Permaculture : principes et voies pour revenir à une société soutenable. La complexité du texte de Holmgren rend la lecture ardue pour un non-anglophone. La traduction française est maintenant heureusement disponible. Un ouvrage majeur.
+* Andrew Goldring, Permaculture Teachers’ Guide, édité par Permaculture Association, WWF-UK et Permanent Publications, 2000. 
 
-* Bill Mollison et David Holmgren, Permaculture One : A Perennial Agriculture for Human Settlements, Transworld, 1978. Traduit en français sous le titre Permaculture 1, Debard, 1986 rééd. Éditions Charles Corlet, 2011. Le livre fondateur de la permaculture, à lire absolument, même si la permaculture a depuis évolué.
+> Un document utile à ceux qui souhaitent enseigner la permaculture : il décrit le cursus de base enseigné dans les cours certifiés de permaculture.
 
-* Bill Mollison, Permaculture Two : Practical Design for Town and Country in Permanent Agriculture, Tagari Publications, 1979. Traduit en français sous le titre Permaculture 2, Éditions Charles Corlet, 2011. Le second livre fondateur de la permaculture.
+* Toby Hemenway, Gaïa’s Garden : A Guide to Home-Scale Permaculture, Chelsea Green Publishing, 2000. 
 
-* Patrick Whitefield, The Earth Care Manual, Permanent Publications, 2004. Notre “bible” pendant des années, remarquable manuel clair, bien documenté, fouillé. Il contient l’essentiel de ce qu’il faut savoir sur la permaculture, adapté à nos latitudes. L’un des meilleurs livres sur le sujet.
+> Excellent livre sur le jardin permaculturel, facile à lire. À quand la traduction française ?
+
+* David Holmgren, Permaculture : Principles & Pathways Beyond Sustainability, Holmgren Design Services, 2002.
+
+> Version anglaise de Permaculture : principes et voies pour revenir à une société soutenable. La complexité du texte de Holmgren rend la lecture ardue pour un non-anglophone. La traduction française est maintenant heureusement disponible. Un ouvrage majeur.
+
+* Bill Mollison et David Holmgren, Permaculture One : A Perennial Agriculture for Human Settlements, Transworld, 1978. 
+
+> Traduit en français sous le titre Permaculture 1, Debard, 1986 rééd. Éditions Charles Corlet, 2011. Le livre fondateur de la permaculture, à lire absolument, même si la permaculture a depuis évolué.
+
+* Bill Mollison, Permaculture Two : Practical Design for Town and Country in Permanent Agriculture, Tagari Publications, 1979. 
+
+> Traduit en français sous le titre Permaculture 2, Éditions Charles Corlet, 2011. Le second livre fondateur de la permaculture.
+
+* Patrick Whitefield, The Earth Care Manual, Permanent Publications, 2004. 
+
+> Notre “bible” pendant des années, remarquable manuel clair, bien documenté, fouillé. Il contient l’essentiel de ce qu’il faut savoir sur la permaculture, adapté à nos latitudes. L’un des meilleurs livres sur le sujet.
  
 ## Jardin-forêt, forêt comestible, agroforesterie, haies
 
 En français
 
-* Maurice Chaudière, La Forêt fruitière ou De l’art de rendre productifs friches, landes, causses, garrigues et maquis…, Éditions de Terran, 2008. Maurice Chaudière partage dans ces pages une longue expérience. Riche et inspirant.
+* Maurice Chaudière, La Forêt fruitière ou De l’art de rendre productifs friches, landes, causses, garrigues et maquis…, Éditions de Terran, 2008.
 
-* Christian Dupraz et Fabien Liagre, Agroforesterie : des arbres et des cultures, France Agricole, 2e éd., 2011. Un ouvrage de référence de deux experts en agroforesterie.
+> Maurice Chaudière partage dans ces pages une longue expérience. Riche et inspirant.
 
-* Dominique Soltner, L’Arbre et la Haie, Sciences et Techniques agricoles, 10e éd., 1998. Intéressant, comme tous les livres de Soltner.
-* Dominique Soltner, Planter des haies, Sciences et Techniques agricoles, 9e éd., 2012. De même, un document de fond.
+* Christian Dupraz et Fabien Liagre, Agroforesterie : des arbres et des cultures, France Agricole, 2e éd., 2011. 
 
-* Patrick Whitefield, Créer un jardin-forêt, Imagine un colibri, 2011. Clair, précis, précieux, comme tous les livres de Whitefield. Permet de comprendre en profondeur tous les aspects d’une forêt-jardin adaptée à nos latitudes.
+> Un ouvrage de référence de deux experts en agroforesterie.
+
+* Dominique Soltner, L’Arbre et la Haie, Sciences et Techniques agricoles, 10e éd., 1998.
+
+> Intéressant, comme tous les livres de Soltner.
+
+* Dominique Soltner, Planter des haies, Sciences et Techniques agricoles, 9e éd., 2012. 
+
+> De même, un document de fond.
+
+* Patrick Whitefield, Créer un jardin-forêt, Imagine un colibri, 2011. 
+
+> Clair, précis, précieux, comme tous les livres de Whitefield. Permet de comprendre en profondeur tous les aspects d’une forêt-jardin adaptée à nos latitudes.
  
 
 En anglais :
 
-* Martin Crawford, Creating a Forest Garden : Working with Nature to Grow Edible Crops, Green Books, 2012. L’un des meilleurs ouvrages sur les forêts-jardins, par le fondateur de l’Agroforestry Research Trust.
+* Martin Crawford, Creating a Forest Garden : Working with Nature to Grow Edible Crops, Green Books, 2012. 
 
-* Robert Hart, Forest Gardening, Chelsea Green Publishing, 2e éd., 1996. Un livre sur les forêts-jardins qui est aussi un témoignage touchant et inspirant, plein de sensibilité et d’élévation, de Robert Hart, le premier à avoir planté une “mini-forêt comestible” en Angleterre.
+> L’un des meilleurs ouvrages sur les forêts-jardins, par le fondateur de l’Agroforestry Research Trust.
 
-* Dave Jacke et Eric Toensmeier, Edible Forest Gardens, Chelsea Green Publishing, 2005. Volume I : Design and Practice ; volume II : Vision and Theory. Deux gros ouvrages de fond sur les forêts-jardins, des documents de référence, mais il faut avoir du temps devant soi et une motivation certaine pour les lire. Plutôt destinés aux spécialistes.
+* Robert Hart, Forest Gardening, Chelsea Green Publishing, 2e éd., 1996.
 
-* Ben Law, The Woodland Year, Permanent Publications, 2008. Décrit un véritable art de vivre dans une forêt, de la forêt. Un livre intéressant sur un sujet encore peu exploré dans la littérature française contemporaine.
-– , The Woodland Way : A Permaculture Approach to Sustainable Woodland Management, Permanent Publications, 2e éd., 2013. Un bel ouvrage du “pape” de la vie dans la forêt en Angleterre. Décrit une manière soutenable de gérer une forêt.
+> Un livre sur les forêts-jardins qui est aussi un témoignage touchant et inspirant, plein de sensibilité et d’élévation, de Robert Hart, le premier à avoir planté une “mini-forêt comestible” en Angleterre.
+
+* Dave Jacke et Eric Toensmeier, Edible Forest Gardens, Chelsea Green Publishing, 2005. 
+ * Volume I : Design and Practice ; 
+ * volume II : Vision and Theory. 
+
+> Deux gros ouvrages de fond sur les forêts-jardins, des documents de référence, mais il faut avoir du temps devant soi et une motivation certaine pour les lire. Plutôt destinés aux spécialistes.
+
+* Ben Law, The Woodland Year, Permanent Publications, 2008. 
+
+> Décrit un véritable art de vivre dans une forêt, de la forêt. Un livre intéressant sur un sujet encore peu exploré dans la littérature française contemporaine.
+
+* Ben Law , The Woodland Way : A Permaculture Approach to Sustainable Woodland Management, Permanent Publications, 2e éd., 2013. 
+
+> Un bel ouvrage du “pape” de la vie dans la forêt en Angleterre. Décrit une manière soutenable de gérer une forêt.
  
 
 DVD en anglais :
 
-* Malcolm Baldwin, Forest Gardening with Robert Hart, 1996. Témoignage intéressant, incontournable.
-* Martin Crawford, A Forest Garden Year, 2010. Documentaire bien réalisé et documenté pour une introduction à la forêt-jardin.
+* Malcolm Baldwin, Forest Gardening with Robert Hart, 1996. 
+
+> Témoignage intéressant, incontournable.
+
+* Martin Crawford, A Forest Garden Year, 2010. 
+
+> Documentaire bien réalisé et documenté pour une introduction à la forêt-jardin.
  
 Site Internet en anglais :
 
-* Agroforestry Research Trust, www.agroforestry.co.uk: site de Martin Crawford (livres, revues, formations, pépinière, semences). Le site de référence, une mine ! Possibilité d’achat de nombreux végétaux bien décrits, expédition en France par la poste.
+* Agroforestry Research Trust, www.agroforestry.co.uk: site de Martin Crawford (livres, revues, formations, pépinière, semences). 
+
+> Le site de référence, une mine ! Possibilité d’achat de nombreux végétaux bien décrits, expédition en France par la poste.
  
 ## Associations de cultures
 
-* Sandra Lefrançois et Jean-Paul Thorez, Plantes compagnes au potager bio : le guide des cultures associées, Terre vivante, 2010. Un livre sérieux et fouillé, comme tous ceux signés par Jean-Paul Thorez, une autorité en matière de jardinage.
+* Sandra Lefrançois et Jean-Paul Thorez, Plantes compagnes au potager bio : 
 
-* Hans Wagner, Le poireau préfère les fraises : les meilleures associations de plantes, Terre vivante, 2e éd., 2008. Un livre de référence sur la question, clair, pour le grand public.
+> le guide des cultures associées, Terre vivante, 2010. Un livre sérieux et fouillé, comme tous ceux signés par Jean-Paul Thorez, une autorité en matière de jardinage.
+
+* Hans Wagner, Le poireau préfère les fraises : les meilleures associations de plantes, Terre vivante, 2e éd., 2008. 
+
+> Un livre de référence sur la question, clair, pour le grand public.
  
  
 ## Apiculture
