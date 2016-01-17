@@ -17,7 +17,7 @@
 
 > Le livre fondateur du biomimétisme, à lire absolument tant il est inspirant. Avec beaucoup de clarté, Janine Benyus explore différentes thématiques comme l’agriculture et l’énergie, et présente les dernières avancées de la science en matière de biomimétisme. Très accessible et bien documenté.
 
-* Valo Dantinne, Erik Jansegers et Pierre-François Pret -  *Le Manuel des jardins agroécologiques*, Actes Sud, coll. “Domaine du possible”, 2012. 
+* Valo Dantinne, Erik Jansegers et Pierre-François Pret -  *[Le Manuel des jardins agroécologiques](http://www.actes-sud.fr/catalogue/potager-et-jardinage/des-jardins-agroecologiques)*, Actes Sud, coll. “Domaine du possible”, 2012. 
 
 > Écrit par les jardiniers de Terre et Humanisme, ce manuel propose une synthèse de l’approche développée par cet organisme en matière de jardinage agroécologique.
 
@@ -29,7 +29,7 @@
 
 > Dans le prolongement de La Révolution d’un seul brin de paille.
 
-* David Holmgren -  Permaculture : principes et voies pour revenir à une société soutenable, Rue de l’Échiquier, coll. “Initial(e) s DD”, 2014. 
+* David Holmgren -  [Permaculture : principes et voies pour revenir à une société soutenable](http://www.ruedelechiquier.net/initialesdd/47-permaculture.html?search_query=Permaculture&results=1), Rue de l’Échiquier, coll. “Initial(e) s DD”, 2014. 
 
 > Ouvrage passionnant présentant l’évolution de la pensée du cofondateur de la permaculture. Les concepts sont brillants et les suggestions novatrices. Excellente traduction de ce texte très dense. À lire absolument.
 
@@ -37,7 +37,7 @@
 
 > Bien illustré, ce livre présente le parcours singulier de Sepp Holzer, un pionnier audacieux qui fait aujourd’hui référence.
 
-* Éric Mollard et Annie Walter -  Agricultures singulières, IRD éditions, 2008. 
+* Éric Mollard et Annie Walter -  [Agricultures singulières](http://www.editions.ird.fr/produit/247/9782709916233/Agricultures%20singulieres), IRD éditions, 2008. 
 
 > Cet ouvrage expose les techniques agricoles originales mises en œuvre aux quatre coins du monde pour s’adapter à des contextes particuliers (milieux marécageux, secs, peu fertiles…). Une belle source d’inspiration pour le design !
 
@@ -45,15 +45,15 @@
 
 > Un classique du père fondateur de la permaculture. Incontournable.
 
-* Franck Nathié -  Permaculture en climat tempéré, Association La Forêt nourricière, 2011. 
+* Franck Nathié -  [Permaculture en climat tempéré](http://www.foretscomestibles.com/documentation-ressource-permaculture/boutique-en-ligne-livre-video/livre-permaculture-climat-tempere-franck-nathie.html), Association La Forêt nourricière, 2011. 
 
 > À commander sur le site de l’association, www.foretscomestibles.com. Synthèse des travaux menés en France par Franck Nathié, cette brochure sympathique présente une foule de solutions concrètes pour mener une vie plus douce pour la planète. L’un des rares ouvrages rédigés dans notre pays.
 
-* Joseph Pousset -  Traité d’agroécologie, France Agricole, coll. “Agriproduction”, 2e éd., 2012. 
+* Joseph Pousset -  [Traité d’agroécologie](http://www.lagalerieverte.com/traite-d-agroecologie.html), France Agricole, coll. “Agriproduction”, 2e éd., 2012. 
 
 > Un livre précieux écrit par un agriculteur. Les sujets abordés sont traités avec clarté et profondeur. Un ouvrage de référence pour tous les paysans.
 
-* Patrick Whitefield -  Graines de permaculture, Passerelle éco, 2e éd., 2011. 
+* Patrick Whitefield -  [Graines de permaculture](http://www.passerelleco.info/article.php?id_article=880), Passerelle éco, 2e éd., 2011. 
 
 > Une brève introduction à la permaculture - limpide comme tous les ouvrages de Whitefield.
  
