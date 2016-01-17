@@ -19,7 +19,7 @@
       * [ Auxiliaires et indésirables](#auxiliaires-et-indésirables)
       * [ Biodynamie](#biodynamie)
       * [Gestion de l’eau](#gestion-de-leau)
-    * [SCIENCES NATURELLES](#sciences-naturelles)
+    * [Sciences naturelles](#sciences-naturelles)
       * [Ouvrages généraux](#ouvrages-généraux)
     * [Plantes](#plantes)
       * [Ouvrages généraux](#ouvrages-généraux-1)
@@ -311,7 +311,7 @@ En anglais :
 
 * Martin Crawford et Caroline Aitken, Food From Your Forest Garden, Green Books, 2013. Un ouvrage récent par l’un des maîtres des forêts-jardins, inspirant.
 
-## SCIENCES NATURELLES
+## Sciences naturelles
 
 ### Ouvrages généraux
 
