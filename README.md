@@ -391,7 +391,7 @@ Autres : histoire naturelle, météorologie, planches de dessins, histoire et pl
 
 > Connaître la météo est une compétence utile au jardinier comme au maraîcher.
 
-## ENJEUX GÉNÉRAUX, PROJETS DE SOCIÉTÉ ET ARTS DE VIVRE
+## Enjeux généraux, projets de société et arts de vivre
 
 ### Ouvrages généraux
 
