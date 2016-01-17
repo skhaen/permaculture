@@ -1,4 +1,4 @@
-# À propos de permaculture
+À propos de permaculture
 
 **Cette bibliographie est honteusement recopié de l'excellent livre "[Guérir la Terre, nourrir les Hommes](http://www.actes-sud.fr/catalogue/ecologie-developpement-durable/permaculture)" de Perrine et Charles HERVÉ-GRUYER chez l'éditeur [Actes-sud](http://www.actes-sud.fr) après de nombreuses années de travail à la [Ferme du Bec-Hellouin](http://www.fermedubec.com/).**
 
@@ -6,45 +6,80 @@
 
 **À noter qu'il existe un [Fonds Documentaire](http://www.ecoledepermaculture.org/accueil/bibliographie-liens-internet.html) sur leur site.**
 
-  * [À propos de permaculture](#À-propos-de-permaculture)
-    * [Permaculture, agroécologie](#permaculture-agroécologie)
-      * [Ouvrages généraux, design](#ouvrages-généraux-design)
-      * [Jardin-forêt, forêt comestible, agroforesterie, haies](#jardin-forêt-forêt-comestible-agroforesterie-haies)
-      * [ Associations de cultures](#associations-de-cultures)
-      * [Apiculture](#apiculture)
-      * [Basse-cour](#basse-cour)
-      * [ Autres animaux](#autres-animaux)
-      * [Micro-organismes](#micro-organismes)
-      * [ Fertilité](#fertilité)
-      * [ Auxiliaires et indésirables](#auxiliaires-et-indésirables)
-      * [ Biodynamie](#biodynamie)
-      * [Gestion de l’eau](#gestion-de-leau)
+  * [Permaculture, agroécologie](#permaculture-agroécologie)
+    * [Ouvrages généraux, design](#ouvrages-généraux-design)
+      * [En français](#en-français)
+      * [En anglais :](#en-anglais-)
+    * [Jardin-forêt, forêt comestible, agroforesterie, haies](#jardin-forêt-forêt-comestible-agroforesterie-haies)
+      * [En français](#en-français-1)
+      * [En anglais :](#en-anglais--1)
+    * [ Associations de cultures](#associations-de-cultures)
+    * [Apiculture](#apiculture)
+    * [Basse-cour](#basse-cour)
+    * [ Autres animaux](#autres-animaux)
+    * [Micro-organismes](#micro-organismes)
+    * [ Fertilité](#fertilité)
+    * [ Auxiliaires et indésirables](#auxiliaires-et-indésirables)
+    * [ Biodynamie](#biodynamie)
+    * [Gestion de l’eau](#gestion-de-leau)
+      * [En anglais :](#en-anglais--2)
+    * [Jardinage](#jardinage)
+      * [ En français](#en-français-2)
+      * [En anglais :](#en-anglais--3)
+    * [Maraîchage](#maraîchage)
+      * [ En français](#en-français-3)
+      * [En anglais :](#en-anglais--4)
+    * [Semences](#semences)
+      * [ En français](#en-français-4)
+      * [En anglais :](#en-anglais--5)
     * [Sciences naturelles](#sciences-naturelles)
       * [Ouvrages généraux](#ouvrages-généraux)
     * [Plantes](#plantes)
       * [Ouvrages généraux](#ouvrages-généraux-1)
+        * [ En français](#en-français-5)
+        * [En anglais :](#en-anglais--6)
       * [Arbres](#arbres)
+      * [Plantes aromatiques et médicinales](#plantes-aromatiques-et-médicinales)
       * [ Fleurs](#fleurs)
       * [Plantes bio-indicatrices](#plantes-bio-indicatrices)
       * [Plantes sauvages](#plantes-sauvages)
       * [Graines germées](#graines-germées)
+        * [ En français](#en-français-6)
+        * [En anglais](#en-anglais)
     * [Oiseaux](#oiseaux)
     * [Papillons](#papillons)
     * [Enjeux généraux, projets de société et arts de vivre](#enjeux-généraux-projets-de-société-et-arts-de-vivre)
       * [Ouvrages généraux](#ouvrages-généraux-2)
+        * [ En français](#en-français-7)
+        * [En anglais](#en-anglais-1)
+      * [Alimentation, agriculture](#alimentation-agriculture)
+        * [En français](#en-français-8)
+        * [En anglais :](#en-anglais--7)
+    * [Énergie](#Énergie)
     * [Habitat, construction](#habitat-construction)
+      * [En français](#en-français-9)
+      * [En anglais :](#en-anglais--8)
     * [ Soin, santé et bien-être](#soin-santé-et-bien-être)
+      * [En français](#en-français-10)
+      * [En anglais :](#en-anglais--9)
     * [Peuples premiers et préhistoire](#peuples-premiers-et-préhistoire)
     * [Artisanat, travail](#artisanat-travail)
       * [Artisanat](#artisanat)
     * [Organisation du travail](#organisation-du-travail)
+  * [Paysages naturels, paysages construits](#paysages-naturels-paysages-construits)
+  * [Annexe I : revues](#annexe-i--revues)
+    * [En français](#en-français-11)
+    * [En anglais :](#en-anglais--10)
+  * [Annexe II : maisons d'édition](#annexe-ii--maisons-dédition)
+  * [CATALOGUES](#catalogues)
 
 
 
+# Permaculture, agroécologie
 
-## Permaculture, agroécologie
+## Ouvrages généraux, design
 
-### Ouvrages généraux, design
+### En français
 
 * [Janine M. Benyus](https://fr.wikipedia.org/wiki/Janine_Benyus) -  *[Biomimétisme](http://www.ruedelechiquier.net/initialesdd/19-biomimetisme.html?search_query=Biomimetisme&results=1)*, Rue de l’Échiquier, coll. “Initial(e) s DD”, 2011. 
 
@@ -91,7 +126,7 @@
 > Une brève introduction à la permaculture - limpide comme tous les ouvrages de Whitefield.
  
 
-En anglais :
+### En anglais :
 
 * Aranya, Permaculture Design : A Step-by-Step Guide, Permanent Publications, 2012.
 Une introduction au design.
@@ -110,19 +145,21 @@ Une introduction au design.
 
 * Patrick Whitefield, The Earth Care Manual, Permanent Publications, 2004. Notre “bible” pendant des années, remarquable manuel clair, bien documenté, fouillé. Il contient l’essentiel de ce qu’il faut savoir sur la permaculture, adapté à nos latitudes. L’un des meilleurs livres sur le sujet.
  
-### Jardin-forêt, forêt comestible, agroforesterie, haies
+## Jardin-forêt, forêt comestible, agroforesterie, haies
+
+### En français
 
 * Maurice Chaudière, La Forêt fruitière ou De l’art de rendre productifs friches, landes, causses, garrigues et maquis…, Éditions de Terran, 2008. Maurice Chaudière partage dans ces pages une longue expérience. Riche et inspirant.
 
 * Christian Dupraz et Fabien Liagre, Agroforesterie : des arbres et des cultures, France Agricole, 2e éd., 2011. Un ouvrage de référence de deux experts en agroforesterie.
 
 * Dominique Soltner, L’Arbre et la Haie, Sciences et Techniques agricoles, 10e éd., 1998. Intéressant, comme tous les livres de Soltner.
-– , Planter des haies, Sciences et Techniques agricoles, 9e éd., 2012. De même, un document de fond.
+* Dominique Soltner, Planter des haies, Sciences et Techniques agricoles, 9e éd., 2012. De même, un document de fond.
 
 * Patrick Whitefield, Créer un jardin-forêt, Imagine un colibri, 2011. Clair, précis, précieux, comme tous les livres de Whitefield. Permet de comprendre en profondeur tous les aspects d’une forêt-jardin adaptée à nos latitudes.
  
 
-En anglais :
+### En anglais :
 
 * Martin Crawford, Creating a Forest Garden : Working with Nature to Grow Edible Crops, Green Books, 2012. L’un des meilleurs ouvrages sur les forêts-jardins, par le fondateur de l’Agroforestry Research Trust.
 
@@ -143,14 +180,14 @@ Site Internet en anglais :
 
 * Agroforestry Research Trust, www.agroforestry.co.uk: site de Martin Crawford (livres, revues, formations, pépinière, semences). Le site de référence, une mine ! Possibilité d’achat de nombreux végétaux bien décrits, expédition en France par la poste.
  
-### Associations de cultures
+## Associations de cultures
 
 * Sandra Lefrançois et Jean-Paul Thorez, Plantes compagnes au potager bio : le guide des cultures associées, Terre vivante, 2010. Un livre sérieux et fouillé, comme tous ceux signés par Jean-Paul Thorez, une autorité en matière de jardinage.
 
 * Hans Wagner, Le poireau préfère les fraises : les meilleures associations de plantes, Terre vivante, 2e éd., 2008. Un livre de référence sur la question, clair, pour le grand public.
  
  
-### Apiculture
+## Apiculture
 
 * Vincent Albouy, Des abeilles au jardin, Édisud, 2012. Un livre très bien fait pour mieux connaître le monde des pollinisateurs sauvages, et s’initier à la ruche Warré.
 
@@ -158,25 +195,25 @@ Site Internet en anglais :
 
 * Jürgen Tautz, Helga Heilmann et Yves Élie, L’Étonnante Abeille, De Boeck, 2009. Un très beau livre sur l’abeille : son mode de vie est exposé, ainsi que celui de la colonie, dans toute sa beauté, sa simplicité, sa complexité… et ses mystères !
  
-### Basse-cour
+## Basse-cour
 
 * Jérôme Chaïb, Votre basse-cour familiale et écologique, Terre vivante, 4e éd., 2001. Pour une approche bio de la basse-cour.
 
 * Jean-Claude Périquet, Le Traité Rustica de la basse-cour, Rustica, 2011. Un ouvrage bien illustré, au texte concis et efficace, incontournable pour ceux qui s’intéressent à la question, comme toutes les encyclopédies Rustica.
  
-### Autres animaux
+## Autres animaux
 
 * Daniel Peyraud, Le Mouton, Rustica, coll. “Les cahiers de l’élevage”, 1995. Un bon document d’accès facile pour le grand public.
 
 * Michel de Simiane, La Chèvre, Rustica, coll. “Les cahiers de l’élevage”, 1995. Un bon document, d’accès facile pour le grand public.
  
-### Micro-organismes
+## Micro-organismes
 
 * Tatsuo Kuroda, EM, les micro-organismes efficaces pour le jardin, Le Courrier du livre, 2010. Intéressant, concret.
 
 * Jeff Lowenfels et Wayne Lewis, Collaborer avec les bactéries et autres micro-organismes, Rouergue, 2008. Pour une introduction au sujet complexe des cultures de micro-organismes.
  
-### Fertilité
+## Fertilité
 
 * Bernard Bertrand, Jean-Paul Collaert et Éric Petiot, Purin d’ortie et compagnie, Éditions de Terran, 2009. Le livre de référence sur les préparations à base de plantes, un grand succès de librairie mérité : à avoir absolument dans sa bibliothèque de jardinier.
 
@@ -186,7 +223,7 @@ Site Internet en anglais :
 
 * Denis Pépin, Compost et paillage au jardin : recycler, fertiliser, Terre vivante, coll. “L’écologie pratique”, 2e éd., 2008. Pour une introduction sur ce sujet incontournable.
  
-### Auxiliaires et indésirables
+## Auxiliaires et indésirables
 
 * Vincent Albouy, Jardinez avec les insectes, Éditions de Terran, coll. “Jardiner nature”, 2009. Un livre très illustré sur les insectes du jardin. Amis et “ennemis”, vous apprendrez tout de leur mode de vie, et vous saurez donc comment les favoriser ou au contraire en protéger vos cultures !
 
@@ -194,22 +231,25 @@ Site Internet en anglais :
 
 * Jean-Paul Thorez, Pucerons, mildiou, limaces : prévenir, identifier, soigner bio, Terre vivante, 2008. Pour connaître les petites bêtes et les maladies qui rôdent autour de vos légumes, et savoir comment lutter préventivement de façon écologique !
  
-### Biodynamie
+## Biodynamie
 
 * Thérèse Trédoulat, Jardinez avec la Lune 2014, Rustica, 2013. Chaque année, ce livre et son calendrier lunaire guident des milliers de jardiniers dans leur collaboration avec l’astre nocturne et les planètes.
 
-* – , Le Traité Rustica du jardinage avec la Lune, Rustica, 2011. Le classique sur la question du jardinage avec la Lune, un peu redondant avec les éditions annuelles.
+* Thérèse Trédoulat, , Le Traité Rustica du jardinage avec la Lune, Rustica, 2011. Le classique sur la question du jardinage avec la Lune, un peu redondant avec les éditions annuelles.
  
-### Gestion de l’eau 
+## Gestion de l’eau 
 
-En anglais :
+### En anglais :
 
 * Sepp Holzer, Desert or Paradise : Restoring Endangered Landscapes Using Water Management, including Lake and Pond Construction, Chelsea Green Publishing, 2012. Intéressant pour tous ceux qui ont à gérer des terres agricoles en milieu aride. Les résultats obtenus par Sepp Holzer en Espagne, au Portugal ou ailleurs sont remarquables !
 
 * Brad Lancaster, Rainwater Harvesting, 3 volumes, Rainsource Press puis Chelsea Green Publishing, 2007 et 2013. Les deux premiers tomes parus traitent des principes fondamentaux de la gestion de l’eau et de la mise en valeur de l’eau de pluie sur un site, le second tome explorant en détail les techniques s’appuyant sur des ouvrages en terre. Le troisième volume, prévu pour 2015, traitera de la récupération en toiture et des citernes. Là encore, pas de traduction en français, malheureusement !
 
 * P. A. Yeomans, Water for Every Farm, Keyline Design, 4e éd., 2008. Livre qui explique les concepts développés par Yeomans autour de l’eau dans le paysage, concepts qui dépassent largement les seules notions de point-clé et de baissière. Un seul regret, et de taille : que ce livre ne soit pas traduit en français !
-Jardinage
+
+## Jardinage
+
+### En français
 
 * Claude Aubert, Le Jardin potager biologique, Le Courrier du livre, 3e éd., 1985. L’un des tout premiers ouvrages sur le jardin bio, il reste d’actualité trente ans après sa publication.
 
@@ -236,7 +276,7 @@ Jardinage
 * Richard Wallner, Manuel de culture sur butte, Rustica, 2013. L’un des rares livres consacrés à la culture sur butte ; il décrit l’approche développée par Richard Wallner dans sa ferme du Petit Colibri.
  
 
-En anglais :
+### En anglais :
 
 * Charles Dowding, Salad Leaves for All Seasons : Organic Growing from Pot to Plot, Green Books, 2008. Sans équivalent en français, cet ouvrage traite des cultures de salades et de jeunes pousses sur de petits espaces. Inspirant, notamment pour les maraîchers.
 
@@ -249,7 +289,11 @@ En anglais :
 * John Seymour, The New Complete Book of Self-Sufficiency : The Classic Guide for Realists and Dreamers, Dorling Kindersley Book, 3e éd., 2003. Ce livre a guidé nos premières années à la Ferme du Bec Hellouin. L’esprit de la permaculture, même s’il a été écrit avant la publication de Permaculture I.
 
 * Catherine Woram et Martyn Cox, Gardening with Kids, Ryland Peters & Small, 2008. Un livre gai et créatif pour que le jardin soit un lieu d’éveil et d’épanouissement pour les enfants.
-Maraîchage
+
+## Maraîchage
+
+### En français
+
 
 * Joseph Argouarc’h, Valérie Lecomte et Jean-Marie Morin, Maraîchage biologique, Éducagri, 2e éd., 2008. Cet ouvrage destiné à l’enseignement du maraîchage biologique dans les établissements de formation agricole mérite d’être étudié car il énonce avec pédagogie les bases de la profession, même si l’approche permaculturelle s’en écarte sur certains points.
 
@@ -276,7 +320,7 @@ Les ouvrages suivants, disponibles sur le Fonds documentaire de l’École de pe
 * I. Ponce, La Culture maraîchère pratique des environs de Paris, La Maison rustique, 1869.
  
 
-En anglais :
+### En anglais :
 
 * Eliot Coleman, The New Organic Grower : A Master’s Manuel of Tools and Techniques for the Home and Market Gardener, Chelsea Green Publishing, 2e éd., 1995. Un manuel complet pour s’initier au maraîchage biologique, remarquable ouvrage qui a contribué à l’essor de la microagriculture nord-américaine.
 
@@ -284,7 +328,11 @@ En anglais :
 
 * Eliot Coleman, The Winter Harvest Handbook : Year-Round Vegetable Production Using Deep-Organic Techniques and Unheated Greenhouses, Chelsea Green Publishing, 2009.
 Cet ouvrage a fortement influencé la Ferme du Bec Hellouin. Il est heureusement maintenant disponible en français sous le titre Des légumes en hiver : produire en abondance, même sous la neige, Actes Sud, 2013.
-Semences
+
+## Semences
+
+### En français
+
 
 * Christian Boué, Produire ses graines bio, Terre vivante, 2012. Un très bon ouvrage destiné aux jardiniers qui souhaitent produire leurs propres semences. Les principes fondamentaux sont très clairement expliqués, et chaque légume fait ensuite l’objet d’une fiche détaillée.
 
@@ -307,7 +355,7 @@ Transformation des aliments
 
 * Wicki Gerbranda, Les Séchoirs solaires, La Pensée sauvage, 1993. À commander sur leur site, penseesauvage30.wordpress. com. À partir de sa longue expérience de la culture de plantes aromatiques et médicinales, Wicki Gerbranda expose dans ce livret comment concevoir et construire un séchoir solaire. Très utile !
  
-En anglais :
+### En anglais :
 
 * Martin Crawford et Caroline Aitken, Food From Your Forest Garden, Green Books, 2013. Un ouvrage récent par l’un des maîtres des forêts-jardins, inspirant.
 
@@ -324,13 +372,16 @@ En anglais :
 
 ### Ouvrages généraux
 
+#### En français
+
+
 * Louis Albert de Broglie, Deyrolle : leçons de choses, Michel Lafon, 2010. Très bel album présentant les célèbres planches naturalistes de la maison Deyrolle.
 
 * Paul Ozenda, Végétation du continent européen, Delachaux et Niestlé, 1994. Une flore bien réalisée, comme tous les ouvrages naturalistes du célèbre éditeur suisse.
 
 * Aline Raynal-Roques, La Botanique redécouverte, Belin, 1994. La botanique peut paraître aride et bien austère au premier abord… Ce n’est plus le cas grâce à ce très bel ouvrage, qui expose simplement les merveilles du monde végétal, avec un regard scientifique admirablement vulgarisé ! Si le monde végétal vous passionne, ce livre est fait pour vous !
  
-En anglais :
+#### En anglais :
 
 * Ken Fern, Plants For a Future : Edible & Useful Plants For a Healthier World, Permanent Publications, 2e éd., 2009. Un classique pour les anglophones, écrit par l’un des pionniers en la matière. Voir aussi son site www.pfaf.org.
  
@@ -356,9 +407,7 @@ Site Internet en anglais :
 
 * Pierre Lieutaghi, Le Livre des arbres, arbustes et arbrisseaux, Actes Sud, 2004. Une référence… Les caractéristiques botaniques et les usages traditionnels des arbres et arbustes de nos contrées sont recensés, de façon très vivante. Ce livre est à la fois un voyage dans le temps et une invitation à regarder d’un œil neuf ces arbres que nos aïeux connaissaient si bien !
  
-* Plantes aromatiques et médicinales
-
-* Voir aussi Soin, santé et bien-être, p. 361.
+### Plantes aromatiques et médicinales
 
 * Bernard Bertrand, Pour l’amour d’une ronce…, édité par A.-J. et B. Bertrand, coll. “Le compagnon végétal”, 1997. L’une des nombreuses monographies que Bernard Bertrand a consacrées aux plantes dans sa collection “Le compagnon végétal”. Toutes sont passionnantes. Elles permettent de porter un regard nouveau sur nos humbles compagnes des bords de chemin.
 * Bernard Bertrand , La Consoude, trésor du jardin, Éditions de Terran, coll. “Le compagnon végétal”, 2e éd., 2004. Une autre parmi les nombreuses monographies que Bernard Bertrand a consacrées aux plantes dans sa collection “Le compagnon végétal”.
@@ -390,6 +439,9 @@ Site Internet en anglais :
  
 ### Graines germées
 
+#### En français
+
+
 * Max Labbé, Ces étonnantes graines germées, M. Labbé, 4e éd., 2004. Du jardin à la cuisine il n’y a qu’un pas : les graines germées sont devenues incontournables tant leurs vertus sont impressionnantes. Ce livre est l’un des meilleurs sur la question.
 Champignons
 
@@ -400,7 +452,7 @@ Champignons
 * Frédéric Mazeaud, Le Panier des champignons, Glénat, coll. “Le Promeneur gourmand”, 1995. Guide pour l’identification et la récolte.
  
 
-En anglais :
+####En anglais
 
 * Paul Stamets, Growing Gourmet and Medicinal Mushrooms, Ten Speed Press, 3e éd., 2000. Pour apprendre à cultiver les meilleurs champignons.
 Animaux
@@ -428,6 +480,9 @@ Autres : histoire naturelle, météorologie, planches de dessins, histoire et pl
 
 ### Ouvrages généraux
 
+#### En français
+
+
 * Rob Hopkins, Manuel de transition : de la dépendance au pétrole à la résilience locale, Écosociété, 2010. Ouvrage fondateur du mouvement des villes en transition, à lire absolument.
 
 * James Lovelock, Gaïa : comment soigner une Terre malade ?, Robert Laffont, 1992.
@@ -441,7 +496,7 @@ Un classique, incontournable aujourd’hui encore : l’hypothèse Gaïa.
 * Muhammad Yunus et Alain Jolis, Vers un monde sans pauvreté, Jean-Claude Lattès, coll. “Le Livre de poche”, 1997. Ce récit de l’aventure de Mohammad Yunus, fondateur du microcrédit et Prix Nobel, se lit comme un roman, donne envie de se retrousser les manches et d’agir !
  
 
-En anglais :
+####En anglais
 
 * Azby Brown, Just Enough : Lessons in Living Green from Traditional Japan, Tuttle Publishing, 2012. Témoignage inspirant d’un renouveau écologique au Japon durant l’ère Edo, avec de nombreuses passerelles vers notre société et des pistes de réflexion pour sortir de la crise.
 Écologie, problèmes environnementaux (et solutions !)
@@ -449,7 +504,11 @@ En anglais :
 * Claude Lorius et Laurent Carpentier, Voyage dans l’Anthropocène : cette nouvelle ère dont nous sommes les héros, Actes Sud, 2010. Une réflexion très contemporaine sur les enjeux actuels.
 
 * Jean-Marie Pelt, Plantes en péril, Fayard, 1997. Par un grand témoin de l’écologie, permet de mieux comprendre le monde végétal et les dangers qui le menacent.
-Alimentation, agriculture
+
+
+### Alimentation, agriculture
+
+#### En français
 
 * Lionel Astruc et Cécile Cros, Manger local. S’approvisionner et produire ensemble, Actes Sud, coll. “Domaine du possible”, 2011. Une réflexion autour d’un mouvement qui s’affirme : le retour au local.
 
@@ -473,10 +532,11 @@ Alimentation, agriculture
 * Gilles-Éric Séralini, Tous cobayes ! OGM, produits chimiques, Flammarion, coll. “Flammarion document”, 2012. Un livre-choc, par l’auteur de la célèbre étude sur les OGM.
  
 
-En anglais :
+#### En anglais :
 
 * Dena Merriam, The Message in a Seed : Guidelines for Peaceful Living, Shumei International, 2007. Nous avons aimé ce livre présentant la philosophie de Shumei, un mouvement d’agriculture naturelle japonais.
-Énergie
+
+## Énergie
 
 * Association NégaWatt, Manifeste négaWatt : réussir la transition énergétique, Actes Sud, coll. “Domaine du possible”, 2012. Pour poser un regard lucide et réaliste sur la question essentielle de la transition énergétique.
 
@@ -487,6 +547,8 @@ En anglais :
 
 ## Habitat, construction
 
+### En français
+
 * Claudia Lorenz-Ladener, Construire une cave naturelle, Ulmer, 2012. La cave naturelle offre de nombreuses possibilités.
 
 * Clarke Snell et Tim Callahan, Manuel de construction écologique, La Plage éditeur, 2006. Le B-A BA de l’éco-construction.
@@ -494,7 +556,7 @@ En anglais :
 * Roland Théron, Habiter la Terre : des maisons et des hommes, La Martinière, 2012. Une enquête sur l’habitat écologique, traditionnel ou contemporain, autour du monde.
  
 
-En anglais :
+### En anglais :
 
 * Mike Oehler, The $50 & up Underground House Book, Mole Publishing Company, 7e éd., 2004. Comment autoconstruire un habitat écologique à très faible coût.
 Communication (interne et externe !), sagesse et éducation
@@ -523,6 +585,7 @@ Raphaëlle Bergeret, Charles Hervé-Gruyer et l’équipage, Enfants de l’Atla
 
 ## Soin, santé et bien-être
 
+### En français
 
 * Michel Lallement, Les Clés de l’alimentation santé : intolérances alimentaires et inflammations chroniques, Mosaïque-Santé, coll. “Vérités”, 2012. Médecin cancérologue, Michel Lallement propose dans ces pages une approche sérieuse et très documentée de l’alimentation santé.
 
@@ -570,7 +633,7 @@ Une immersion tendrement nostalgique dans un univers proche et révolu.
 Une référence précieuse !
  
 
-En anglais :
+### En anglais :
 
 * Kerry Dawborn et Caroline Smith, Permaculture Pioneers, Melliodora Publishing, 2011. Une enquête sur les pionniers de la permaculture.
 
@@ -605,14 +668,17 @@ En anglais :
 ## Organisation du travail
 
 * Jérôme Henry, L’Économie humaine, mode d’emploi : des idées pour travailler solidaire et responsable, Eyrolles, 2011. Pour réinventer une économie qui soit au service de l’homme et non l’inverse, par un banquier éclairé qui est aussi l’un des meilleurs observateurs contemporains de l’écologie et de ses réalisations de terrain.
-PAYSAGES NATURELS, PAYSAGES CONSTRUITS
+
+# Paysages naturels, paysages construits
 
 * Luc Jacquet et Francis Hallé, Il était une forêt, Actes Sud, 2013. L’album du merveilleux film. Francis Hallé, grand connaisseur des forêts primaires, nous invite à porter un nouveau regard sur les arbres et les forêts.
 
 * Serge Schall, De mémoire de potagers, Plume de carotte, 2008. Bel album pour plonger dans le patrimoine des jardins d’antan et mieux connaître les légumes.
 
 
-Annexe I : revues
+# Annexe I : revues
+
+## En français
 
 En français :
 180 °C
@@ -661,14 +727,14 @@ Transrural initiatives
 Trucs & astuces au jardin et au potager
 We Demain
 
-En anglais :
+## En anglais :
 
 Acres USA
 Healing Our World (revue du Hippocrates Health Institute)
 Permaculture Activist
 Permaculture Magazine (Royaume-Uni)
 
-Annexe II : maisons d'édition
+# Annexe II : maisons d'édition
 
 Maisons françaises :
 Actes Sud
@@ -692,7 +758,7 @@ Pour commander des livres en anglais :
 Green Shopping (axé sur l’environnement, écologie, la permaculture…), www.green-shopping.co.uk.
 The Book Depository (un distributeur généraliste), www.bookdepository.com.
 
-CATALOGUES
+# CATALOGUES
 
 Agroforestry Research Trust. La dernière version de leur catalogue est disponible à l’adresse suivante : www.agroforestry.co.uk/Catalogue201314.pdf.
 Agrosemens
