@@ -1,6 +1,15 @@
 À propos de permaculture
 
-**Cette bibliographie est honteusement recopié de l'excellent livre "[Guérir la Terre, nourrir les Hommes](http://www.actes-sud.fr/catalogue/ecologie-developpement-durable/permaculture)" de Perrine et Charles HERVÉ-GRUYER chez l'éditeur [Actes-sud](http://www.actes-sud.fr) après de nombreuses années de travail à la [Ferme du Bec-Hellouin](http://www.fermedubec.com/).**
+Quelques liens : 
+
+* Spirale d'aromatiques : [wikipedia](https://fr.wikipedia.org/wiki/Spirale_d%27aromatiques) / [construction](http://www.prisedeterre.net/2013/09/03/construction-dune-spirale-daromatiques/)
+
+
+
+
+-------------------------------------------------------
+
+**La bibliographie ci-dessous est honteusement recopié de l'excellent livre "[Guérir la Terre, nourrir les Hommes](http://www.actes-sud.fr/catalogue/ecologie-developpement-durable/permaculture)" de Perrine et Charles HERVÉ-GRUYER chez l'éditeur [Actes-sud](http://www.actes-sud.fr) après de nombreuses années de travail à la [Ferme du Bec-Hellouin](http://www.fermedubec.com/).**
 
 **La totalité des commentaires viennent du livre, je n'ai rien ajouté.**
 
