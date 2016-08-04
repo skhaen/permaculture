@@ -1,6 +1,4 @@
-À propos de permaculture
-
-Quelques liens (à améliorer !): 
+# À propos de permaculture
 
 * [Projet Permaculture](https://fr.wikipedia.org/wiki/Projet:Permaculture) sur wikipedia
 
